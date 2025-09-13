@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dashboard de Inglês</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f4f6f9;
+      margin: 0;
+      padding: 20px;
+    }
+    h1 {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    .container {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 20px;
+    }
+    .card {
+      background: white;
+      padding: 20px;
+      border-radius: 12px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    }
+    button {
+      padding: 10px 20px;
+      margin: 5px;
+      border: none;
+      border-radius: 6px;
+      background: #4CAF50;
+      color: white;
+      font-size: 16px;
+      cursor: pointer;
+    }
+    button:hover {
+      background: #45a049;
+    }
+    .reset-btn {
+      background: #e53935;
+    }
+    .reset-btn:hover {
+      background: #c62828;
+    }
+    .heatmap {
+      display: grid;
+      grid-template-columns: repeat(53, 12px);
+      gap: 2px;
+      justify-content: center;
+    }
+    .day {
+      width: 12px;
+      height: 12px;
+      background: #e0e0e0;
+      border-radius: 2px;
+    }
+    .day.active {
+      background: #4CAF50;
+    }
+  </style>
+</head>
+<body>
+  <h1>📊 Dashboard de Estudos de Inglês</h1>
+  <div class="container">
+    <div class="card">
+      <h2>Repetições diárias</h2>
+      <button id="addBtn">+1 Repetição</button>
+      <button class="reset-btn" id="resetBtn">Resetar Hoje</button>
+      <canvas id="dailyChart"></canvas>
+    </div>
+
+    <div class="card">
+      <h2>Heatmap de estudos (1 ano)</h2>
+      <p>Dias que você estudou nos últimos 365 dias</p>
+      <div class="heatmap" id="heatmap"></div>
+    </div>
+  </div>
+
+  <script>
+    // ======= SALVAR E CARREGAR DADOS =======
+    function saveData() {
+      localStorage.setItem('dailyData', JSON.stringify(dailyData));
+    }
+
+    function loadData() {
+      const saved = localStorage.getItem('dailyData');
+      if (saved) {
+        const parsed = JSON.parse(saved);
+        dailyData.labels = parsed.labels;
+        dailyData.datasets[0].data = parsed.datasets[0].data;
+        dailyChart.update();
+
+        // reativar heatmap dos dias salvos
+        parsed.labels.forEach((label, i) => {
+          if (parsed.datasets[0].data[i] > 0) {
+            activateHeatmapDay(label);
+          }
+        });
+      }
+    }
+
+    // ======= GRÁFICO DE REPETIÇÕES DIÁRIAS =======
+    const ctx = document.getElementById('dailyChart').getContext('2d');
+    const dailyData = {
+      labels: [],
+      datasets: [{
+        label: 'Repetições por dia',
+        data: [],
+        borderColor: '#4CAF50',
+        backgroundColor: 'rgba(76, 175, 80, 0.2)',
+        borderWidth: 2,
+        fill: true,
+      }]
+    };
+
+    const dailyChart = new Chart(ctx, {
+      type: 'bar',
+      data: dailyData,
+      options: {
+        responsive: true,
+        scales: {
+          y: { beginAtZero: true }
+        }
+      }
+    });
+
+    function addRepetition() {
+      const today = new Date().toISOString().split('T')[0];
+      if (!dailyData.labels.includes(today)) {
+        dailyData.labels.push(today);
+        dailyData.datasets[0].data.push(1);
+      } else {
+        const idx = dailyData.labels.indexOf(today);
+        dailyData.datasets[0].data[idx]++;
+      }
+      dailyChart.update();
+      activateHeatmapDay(today);
+      saveData();
+    }
+
+    function resetToday() {
+      const today = new Date().toISOString().split('T')[0];
+      if (dailyData.labels.includes(today)) {
+        const idx = dailyData.labels.indexOf(today);
+        dailyData.datasets[0].data[idx] = 0;
+        dailyChart.update();
+        saveData();
+      }
+    }
+
+    document.getElementById('addBtn').addEventListener('click', addRepetition);
+    document.getElementById('resetBtn').addEventListener('click', resetToday);
+
+    // ======= HEATMAP =======
+    const heatmapContainer = document.getElementById('heatmap');
+    const days = 365;
+    const cells = [];
+    const today = new Date();
+
+    for (let i = 0; i < days; i++) {
+      const cell = document.createElement('div');
+      cell.classList.add('day');
+      // Armazena a data correspondente ao quadrado
+      const date = new Date();
+      date.setDate(today.getDate() - (days - 1 - i));
+      cell.dataset.date = date.toISOString().split('T')[0];
+      cells.push(cell);
+      heatmapContainer.appendChild(cell);
+    }
+
+    function activateHeatmapDay(dateStr) {
+      const cell = cells.find(c => c.dataset.date === dateStr);
+      if (cell) cell.classList.add('active');
+    }
+
+    // Carregar dados ao iniciar
+    loadData();
+  </script>
+</body>
+</html>
