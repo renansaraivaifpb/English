@@ -1,0 +1,2706 @@
+[
+  {
+    "noteId": 1749908577759,
+    "profile": "User 1",
+    "tags": [
+      "Basic_Greetings_Introductions"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "Hello",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Olá",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1749908577,
+    "cards": [
+      1749908577760
+    ]
+  },
+  {
+    "noteId": 1749908587690,
+    "profile": "User 1",
+    "tags": [
+      "Basic_Greetings_Introductions"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "Hi",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Oi",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1749908587,
+    "cards": [
+      1749908587690
+    ]
+  },
+  {
+    "noteId": 1749908601754,
+    "profile": "User 1",
+    "tags": [
+      "Basic_Greetings_Introductions"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "Good Morning",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Bom dia",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1749908601,
+    "cards": [
+      1749908601754
+    ]
+  },
+  {
+    "noteId": 1749908610012,
+    "profile": "User 1",
+    "tags": [
+      "Basic_Greetings_Introductions"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "Good afternoon",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Boa tarde",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1749908610,
+    "cards": [
+      1749908610012
+    ]
+  },
+  {
+    "noteId": 1749908626078,
+    "profile": "User 1",
+    "tags": [
+      "Basic_Greetings_Introductions"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "Good evening",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Boa noite",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1749908626,
+    "cards": [
+      1749908626078
+    ]
+  },
+  {
+    "noteId": 1749908637456,
+    "profile": "User 1",
+    "tags": [
+      "Basic_Greetings_Introductions"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "Goodbye",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Tchau",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1749908637,
+    "cards": [
+      1749908637456
+    ]
+  },
+  {
+    "noteId": 1749908646365,
+    "profile": "User 1",
+    "tags": [
+      "Basic_Greetings_Introductions"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "Please",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Por favor",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1749908646,
+    "cards": [
+      1749908646365
+    ]
+  },
+  {
+    "noteId": 1749908654173,
+    "profile": "User 1",
+    "tags": [
+      "Basic_Greetings_Introductions"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "Thank you",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Obrigado",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1749908654,
+    "cards": [
+      1749908654173
+    ]
+  },
+  {
+    "noteId": 1749908668087,
+    "profile": "User 1",
+    "tags": [
+      "Basic_Greetings_Introductions"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "Your're welcome",
+        "order": 0
+      },
+      "Verso": {
+        "value": "De nada",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1749908668,
+    "cards": [
+      1749908668087
+    ]
+  },
+  {
+    "noteId": 1749908685904,
+    "profile": "User 1",
+    "tags": [
+      "Basic_Greetings_Introductions"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "Nice to meet you",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Prazer em conhecê-lo",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1749908685,
+    "cards": [
+      1749908685904
+    ]
+  },
+  {
+    "noteId": 1749908802586,
+    "profile": "User 1",
+    "tags": [
+      "days_month_seasons"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "Monday",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Segunda-feira",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1749908802,
+    "cards": [
+      1749908802587
+    ]
+  },
+  {
+    "noteId": 1749908812783,
+    "profile": "User 1",
+    "tags": [
+      "days_month_seasons"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "Tuesday",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Terça-feira",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1749908812,
+    "cards": [
+      1749908812783
+    ]
+  },
+  {
+    "noteId": 1749908824531,
+    "profile": "User 1",
+    "tags": [
+      "days_month_seasons"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "Wednesday<br>[sound:pronunciation_en_wednesday.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Quarta-feira",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1750260348,
+    "cards": [
+      1749908824531
+    ]
+  },
+  {
+    "noteId": 1749908831023,
+    "profile": "User 1",
+    "tags": [
+      "days_month_seasons"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "Thursday",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Quinta-feira",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1749908831,
+    "cards": [
+      1749908831023
+    ]
+  },
+  {
+    "noteId": 1749908842531,
+    "profile": "User 1",
+    "tags": [
+      "days_month_seasons"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "Friday",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Sexta-feira",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1749908842,
+    "cards": [
+      1749908842531
+    ]
+  },
+  {
+    "noteId": 1749908908208,
+    "profile": "User 1",
+    "tags": [
+      "days_month_seasons"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "Summer",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Verão",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1749908908,
+    "cards": [
+      1749908908208
+    ]
+  },
+  {
+    "noteId": 1749908920639,
+    "profile": "User 1",
+    "tags": [
+      "days_month_seasons"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "Winter",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Inverno",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1749908920,
+    "cards": [
+      1749908920639
+    ]
+  },
+  {
+    "noteId": 1749911258718,
+    "profile": "User 1",
+    "tags": [
+      "Family_people"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "Family",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Família",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1749911258,
+    "cards": [
+      1749911258719
+    ]
+  },
+  {
+    "noteId": 1749911264551,
+    "profile": "User 1",
+    "tags": [
+      "Family_people"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "Mother",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Mãe",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1749911264,
+    "cards": [
+      1749911264551
+    ]
+  },
+  {
+    "noteId": 1749911271829,
+    "profile": "User 1",
+    "tags": [
+      "Family_people"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "Father",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Pai",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1749911271,
+    "cards": [
+      1749911271829
+    ]
+  },
+  {
+    "noteId": 1749911282094,
+    "profile": "User 1",
+    "tags": [
+      "Family_people"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "Child",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Criança",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1749911282,
+    "cards": [
+      1749911282094
+    ]
+  },
+  {
+    "noteId": 1749911319207,
+    "profile": "User 1",
+    "tags": [
+      "Places_Directions"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "Where",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Onde",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1749911319,
+    "cards": [
+      1749911319207
+    ]
+  },
+  {
+    "noteId": 1749911326778,
+    "profile": "User 1",
+    "tags": [
+      "Places_Directions"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "There",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Lá",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1749911326,
+    "cards": [
+      1749911326778
+    ]
+  },
+  {
+    "noteId": 1749911330203,
+    "profile": "User 1",
+    "tags": [
+      "Places_Directions"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "Street",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Rua",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1749911330,
+    "cards": [
+      1749911330203
+    ]
+  },
+  {
+    "noteId": 1749911362080,
+    "profile": "User 1",
+    "tags": [
+      "Verbs_Actions"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "To be",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Ser/Estar",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1749911362,
+    "cards": [
+      1749911362080
+    ]
+  },
+  {
+    "noteId": 1749911374821,
+    "profile": "User 1",
+    "tags": [
+      "Verbs_Actions"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "To have",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Ter",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1749911374,
+    "cards": [
+      1749911374821
+    ]
+  },
+  {
+    "noteId": 1749911384513,
+    "profile": "User 1",
+    "tags": [
+      "Verbs_Actions"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "To say",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Dizer",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1749911384,
+    "cards": [
+      1749911384513
+    ]
+  },
+  {
+    "noteId": 1749911387934,
+    "profile": "User 1",
+    "tags": [
+      "Verbs_Actions"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "To eat",
+        "order": 0
+      },
+      "Verso": {
+        "value": "",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1749911387,
+    "cards": [
+      1749911387934
+    ]
+  },
+  {
+    "noteId": 1749911394905,
+    "profile": "User 1",
+    "tags": [
+      "Verbs_Actions"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "To drink",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Beber",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1749911394,
+    "cards": [
+      1749911394905
+    ]
+  },
+  {
+    "noteId": 1749911404798,
+    "profile": "User 1",
+    "tags": [
+      "Verbs_Actions"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "To work",
+        "order": 0
+      },
+      "Verso": {
+        "value": "trabalhar",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1749911404,
+    "cards": [
+      1749911404798
+    ]
+  },
+  {
+    "noteId": 1749911412607,
+    "profile": "User 1",
+    "tags": [
+      "Verbs_Actions"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "To walk",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Andar/Caminhar",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1749911412,
+    "cards": [
+      1749911412608
+    ]
+  },
+  {
+    "noteId": 1749916683095,
+    "profile": "User 1",
+    "tags": [
+      "phrases_for_beginners"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "Can I ask you something?",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Posso te perguntar uma coisa?",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1749916683,
+    "cards": [
+      1749916683095
+    ]
+  },
+  {
+    "noteId": 1750203243512,
+    "profile": "User 1",
+    "tags": [],
+    "fields": {
+      "Frente": {
+        "value": "What's up?<br>[sound:pronunciation_en_what's_up_.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "E aí?",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1750203243,
+    "cards": [
+      1750203243512
+    ]
+  },
+  {
+    "noteId": 1750270450548,
+    "profile": "User 1",
+    "tags": [
+      "Apresentação_Pessoal::Hobbies",
+      "Conversação",
+      "Entrevista"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "I really enjoy working on tech projects.<br>[sound:pronunciation_en_tech.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Eu realmente gosto de trabalhar em projetos de tecnologia",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1750278293,
+    "cards": [
+      1750270450548
+    ]
+  },
+  {
+    "noteId": 1750279290893,
+    "profile": "User 1",
+    "tags": [
+      "Apresentação_Pessoal::Hobbies",
+      "Conversação",
+      "Entrevista"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "Especially those involving automation and data analysis.<br>[sound:pronunciation_en_especially.mp3]<br>[sound:pronunciation_en_those.mp3]<br>[sound:pronunciation_en_involving.mp3]<br>[sound:pronunciation_en_and.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Especialmente aquelas que envolvem automação e análise de dados.",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1750279290,
+    "cards": [
+      1750279290893
+    ]
+  },
+  {
+    "noteId": 1750360173782,
+    "profile": "User 1",
+    "tags": [
+      "Apresentação_Pessoal::Hobbies",
+      "Conversação",
+      "Entrevista",
+      "phrases_for_beginners",
+      "to_study"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "I'm speaking English every day to improve my speaking skills.<br>[sound:rec1750360027.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "<div>Eu falo inglês todos os dias para melhorar minhas habilidades de falar.</div>",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1750360186,
+    "cards": [
+      1750360173783
+    ]
+  },
+  {
+    "noteId": 1750360247512,
+    "profile": "User 1",
+    "tags": [
+      "Apresentação_Pessoal::Hobbies",
+      "Conversação",
+      "Entrevista",
+      "phrases_for_beginners",
+      "to_drink"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "I'm drinking water right now.<br>[sound:rec1750360225.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Estou bebendo água agora",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1750360247,
+    "cards": [
+      1750360247512
+    ]
+  },
+  {
+    "noteId": 1750380220872,
+    "profile": "User 1",
+    "tags": [
+      "Apresentação_Pessoal::Hobbies",
+      "Conversação",
+      "Entrevista",
+      "listen",
+      "phrases_for_beginners",
+      "to_draw"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "I like to draw or listen to music when i'm feeling creative.<br>[sound:rec1750380159.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "<li>Gosto de desenhar quando estou me sentindo criativo.<br></li>",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1750380220,
+    "cards": [
+      1750380220872
+    ]
+  },
+  {
+    "noteId": 1750537973423,
+    "profile": "User 1",
+    "tags": [
+      "playing"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "On weekends, I like playing with my friends online.<br>[sound:pronunciation_en_weekends.mp3]<br>[sound:pronunciation_en_with.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Nos fins de semana, gosto de jogar com meus amigos online",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1750537973,
+    "cards": [
+      1750537973423
+    ]
+  },
+  {
+    "noteId": 1750538107918,
+    "profile": "User 1",
+    "tags": [
+      "taking"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "I'm taking a shawer.<br>[sound:pronunciation_en_taking.mp3]<br>[sound:pronunciation_en_shower.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Estou tomando banho.",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1750538107,
+    "cards": [
+      1750538107918
+    ]
+  },
+  {
+    "noteId": 1750565600871,
+    "profile": "User 1",
+    "tags": [
+      "Apresentação_Pessoal::Hobbies",
+      "Conversação",
+      "Entrevista",
+      "tell-me-about-yourself"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "I'm currently in my final year of a Bachelor’s degree in Control and Automation Engineering at IFPB.<br>[sound:pronunciation_en_currently.mp3]<br>[sound:pronunciation_en_bachelor's.mp3]<br>[sound:pronunciation_en_engineering.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Estou atualmente no último ano do curso de Engenharia de Controle e Automação no IFPB",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1753201776,
+    "cards": [
+      1750565600871
+    ]
+  },
+  {
+    "noteId": 1750603490066,
+    "profile": "User 1",
+    "tags": [
+      "Conversação",
+      "Entrevista",
+      "tell-me-about-yourself"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "I have around 4 years of experience working with software development, web technologies, and machine learning<br>[sound:pronunciation_en_around.mp3]<br>[sound:pronunciation_en_development.mp3]<br>[sound:pronunciation_en_applied.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Tenho cerca de 4 anos de experiência trabalhando com desenvolvimento de software, tecnologias web e aprendizado de máquina aplicado.",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1750603490,
+    "cards": [
+      1750603490066
+    ]
+  },
+  {
+    "noteId": 1750603820850,
+    "profile": "User 1",
+    "tags": [
+      "Conversação",
+      "Entrevista",
+      "tell-me-about-yourself"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "<div>Some of my top skills include Python, C++, and machine learning frameworks like TensorFlow and PyTorch.</div><div>[sound:pronunciation_en_some.mp3]<br></div>",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Minhas tops skils inclui python, c++ e frameworks de aprendizado de máquina com tensorflow and pytorch.",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1750603820,
+    "cards": [
+      1750603820850
+    ]
+  },
+  {
+    "noteId": 1750714653769,
+    "profile": "User 1",
+    "tags": [
+      "Conversação",
+      "Entrevista",
+      "tell-me-about-yourself"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "I’ve worked on several research projects involving deep learning, computer vision, and control systems.<br>[sound:pronunciation_en_worked.mp3]<br>[sound:pronunciation_en_several.mp3]<br>[sound:pronunciation_en_research.mp3]<br>[sound:rec1750714602.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Trabalhei em vários projetos de pesquisa envolvendo deep learning, visão computacional e sistemas de controle.",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1750714653,
+    "cards": [
+      1750714653769
+    ]
+  },
+  {
+    "noteId": 1750715274917,
+    "profile": "User 1",
+    "tags": [
+      "Conversação",
+      "Entrevista",
+      "tell-me-about-yourself"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "One of them in partnership with Ford, Assert, and IFPB, where I developed a gesture recogntion system using embedded vision.<br><br>[sound:pronunciation_en_them.mp3]<br>[sound:pronunciation_en_partnership.mp3]<br>[sound:pronunciation_en_developed.mp3]<br>[sound:pronunciation_en_gesture.mp3]<br>[sound:pronunciation_en_embedded.mp3]<br>[sound:rec1750715148.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "um deles em parceria com a Ford, a Assert e o IFPB, onde desenvolvi um sistema de reconhecimento de gestos usando visão embarcada.",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1750715274,
+    "cards": [
+      1750715274917
+    ]
+  },
+  {
+    "noteId": 1750768495351,
+    "profile": "User 1",
+    "tags": [
+      "Conversação",
+      "Entrevista",
+      "tell-me-about-yourself"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "I'm passionate about learning and solving technical challenges.<br>[sound:pronunciation_en_passionate.mp3]<br>[sound:pronunciation_en_technical.mp3]<br>[sound:pronunciation_en_challenges.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Sou apaixonado por aprender e resolver desafios técnicos",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1750768495,
+    "cards": [
+      1750768495351
+    ]
+  },
+  {
+    "noteId": 1750769221255,
+    "profile": "User 1",
+    "tags": [
+      "Conversação",
+      "Describe_Yourself_in_Three_Words",
+      "Entrevista",
+      "tell-me-about-yourself"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "Curious, analytical, and solution-oriented.<br>[sound:pronunciation_en_curious.mp3]<br>[sound:pronunciation_en_analytical.mp3]<br>[sound:pronunciation_en_oriented.mp3]<br>[sound:rec1750769191.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Curioso, analítico e orientado a soluções.",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1750769221,
+    "cards": [
+      1750769221255
+    ]
+  },
+  {
+    "noteId": 1750769715158,
+    "profile": "User 1",
+    "tags": [
+      "Conversação",
+      "Describe_Yourself_in_Three_Words",
+      "Entrevista",
+      "tell-me-about-yourself"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "I'm naturally curious, which drives me to constantly explore new technologies and improve my skill set<br>[sound:pronunciation_en_naturally.mp3]<br>[sound:pronunciation_en_which.mp3]<br>[sound:pronunciation_en_constantly.mp3]<br>[sound:pronunciation_en_explore.mp3]<br>[sound:rec1750769626.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Sou naturalmente curioso, o que me impulsiona a explorar constantemente novas tecnologias e aprimorar minha habilidades.",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1750769715,
+    "cards": [
+      1750769715158
+    ]
+  },
+  {
+    "noteId": 1750898483550,
+    "profile": "User 1",
+    "tags": [
+      "Conversação",
+      "Entrevista",
+      "tell-me-about-yourself"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "I'm highly analytical, especially when working with data, algorithms or control systems.<br>[sound:pronunciation_en_analytical.mp3]<br>[sound:rec1750898368.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Tenho um perfil altamente analítico, especialmente quando trabalho com dados, algoritmos ou sistemas de controle",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1750898483,
+    "cards": [
+      1750898483550
+    ]
+  },
+  {
+    "noteId": 1750950552989,
+    "profile": "User 1",
+    "tags": [
+      "days_month_seasons"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "Yesterday was Wednesday.<br>[sound:pronunciation_en_yesterday.mp3]<br>[sound:pronunciation_en_was.mp3]<br>[sound:pronunciation_en_wednesday.mp3]<br>[sound:rec1750950541.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Ontem foi quarta-feira.",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1750950552,
+    "cards": [
+      1750950552989
+    ]
+  },
+  {
+    "noteId": 1750950943406,
+    "profile": "User 1",
+    "tags": [
+      "Conversação",
+      "Describe_Yourself_in_Three_Words",
+      "Entrevista",
+      "tell-me-about-yourself"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "[sound:rec1750950812.mp3]I like turning complex technical challenges into practical results<br>into: [sound:pronunciation_en_into.mp3]<br>practical: [sound:pronunciation_en_practical.mp3]<br>result: [sound:pronunciation_en_result.mp3]<br>pronuncia:&nbsp;",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Eu gosto de transformar desafios técnicos complexos em resultados práticos",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1751985158,
+    "cards": [
+      1750950943406
+    ]
+  },
+  {
+    "noteId": 1750951534309,
+    "profile": "User 1",
+    "tags": [
+      "adapt_to_new_technology",
+      "Conversação",
+      "Entrevista"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "I adapt to new technology very quickly.<br>quickly: [sound:pronunciation_en_quickly.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Eu me adapto a novas tecnologias muito rápido.",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1750951534,
+    "cards": [
+      1750951534309
+    ]
+  },
+  {
+    "noteId": 1751984908465,
+    "profile": "User 1",
+    "tags": [
+      "adapt_to_new_technology",
+      "Conversação",
+      "Entrevista"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "As someone who works with Machine Learning, Embedded systems and computer vision.<br>[sound:pronunciation_en_someone.mp3]<br>[sound:rec1751985282.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Como alguém que trabalha com aprendizado de máquina, sistemas embarcados e visão computacional.",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1751985282,
+    "cards": [
+      1751984908465
+    ]
+  },
+  {
+    "noteId": 1751985139952,
+    "profile": "User 1",
+    "tags": [
+      "adapt_to_new_technology",
+      "Conversação",
+      "Entrevista"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "I'm constantly learning and experimenting with new tools, languages and platforms.<br>constantly:&nbsp;[sound:pronunciation_en_constantly.mp3]<br>experimenting: [sound:pronunciation_en_experimenting.mp3]<br>languages:&nbsp;[sound:pronunciation_en_languages.mp3]<br>[sound:rec1751985224.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Estou constantemente aprendendo e experimentando novas ferramentas, linguagens e plataformas.",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1751985225,
+    "cards": [
+      1751985139952
+    ]
+  },
+  {
+    "noteId": 1752182556691,
+    "profile": "User 1",
+    "tags": [
+      "adapt_to_new_technology",
+      "Conversação",
+      "Entrevista"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "For example, I’ve recently worked on projects using TensorFlow, PyTorch, and LangChain for LLM- based applications<br>recently: [sound:pronunciation_en_recently.mp3]<br>based:&nbsp; &nbsp; [sound:pronunciation_en_based.mp3]<br>[sound:rec1752170225.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Por exemplo, recentemente trabalhei em projetos usando TensorFlow, PyTorch e LangChain para aplicações com LLMs.",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1752182556,
+    "cards": [
+      1752182556691
+    ]
+  },
+  {
+    "noteId": 1752717887101,
+    "profile": "User 1",
+    "tags": [
+      "Conversação",
+      "Entrevista"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "I participate in a project with Ford aimed at controlling the multimedia system through gestures using computer vision.<br>gestures: [sound:pronunciation_en_gestures.mp3]<br>[sound:rec1752709587.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Participei de um projeto com a Ford que visava controlar o sistema multimídia por gestos, usando visão computacional.",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1752722338,
+    "cards": [
+      1752717887102
+    ]
+  },
+  {
+    "noteId": 1752959524381,
+    "profile": "User 1",
+    "tags": [
+      "algorithm",
+      "Conversação",
+      "embedded",
+      "Entrevista"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "Thus, I embedded the algorithm into the Raspberry Pi.<br><br>embedded: [sound:pronunciation_en_embedded.mp3]<br>algorithm:&nbsp;[sound:pronunciation_en_algorithm.mp3]<br>[sound:rec1752959495.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Assim, embarcamos o algoritmo na Raspberry Pi.",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1752959524,
+    "cards": [
+      1752959524381
+    ]
+  },
+  {
+    "noteId": 1752961165968,
+    "profile": "User 1",
+    "tags": [
+      "communication",
+      "Conversação",
+      "Entrevista"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "set up CAN communication between the devices.<br>[sound:rec1752960987.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "configurado a comunicação CAN entre os dispositivos&nbsp;",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1752961165,
+    "cards": [
+      1752961165969
+    ]
+  },
+  {
+    "noteId": 1753026492341,
+    "profile": "User 1",
+    "tags": [
+      "architecture",
+      "Conversação",
+      "Entrevista",
+      "implement"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "and implemented the Autosar architecture in the Vector module,<br>implemented: [sound:pronunciation_en_implemented.mp3]<br>architecture: [sound:pronunciation_en_architecture.mp3]<br>module: [sound:pronunciation_en_module.mp3]<br>[sound:rec1753026455.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "e implementei a arquitetura Autosar no módulo Vector",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1753026492,
+    "cards": [
+      1753026492341
+    ]
+  },
+  {
+    "noteId": 1753026864305,
+    "profile": "User 1",
+    "tags": [
+      "Conversação",
+      "Entrevista",
+      "transmitted",
+      "ultimately",
+      "which"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "which ultimately transmitted the commands to the multimedia center.<br>which: [sound:pronunciation_en_which (1).mp3]<br>ultimately: [sound:pronunciation_en_ultimately.mp3]<br>transmitted: [sound:pronunciation_en_transmitted.mp3]<br>commands: [sound:pronunciation_en_commands (1).mp3]<br>[sound:rec1753026725.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "que por fim transmitia os comandos para a central multimídia",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1753026864,
+    "cards": [
+      1753026864306
+    ]
+  },
+  {
+    "noteId": 1753151985735,
+    "profile": "User 1",
+    "tags": [
+      "always",
+      "Conversação",
+      "Entrevista",
+      "improve",
+      "solution-oriented"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "I'm solution-oriented and proactive, always looking for ways to improve systems and processes.<br>[sound:rec1753151941.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Sou orientado a soluções e proativo, sempre buscando maneiras de melhorar sistemas e processos.",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1753151985,
+    "cards": [
+      1753151985740
+    ]
+  },
+  {
+    "noteId": 1753152323585,
+    "profile": "User 1",
+    "tags": [
+      "always",
+      "Conversação",
+      "Entrevista",
+      "improve",
+      "solution-oriented"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "Sometimes I take on too many task once. I'm learning to delegate and set boundaries<br>[sound:pronunciation_en_boundaries.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Às vezes pego muitas tarefas ao mesmo tempo. Estou aprendendo a delegar e estabelecer limites",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1753152323,
+    "cards": [
+      1753152323585
+    ]
+  },
+  {
+    "noteId": 1753201029491,
+    "profile": "User 1",
+    "tags": [
+      "assessing",
+      "Conversação",
+      "Entrevista",
+      "prioritize",
+      "urgency"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "I prioritize by assessing urgency, impact, and deadlines.<br>prioritize: [sound:pronunciation_en_prioritize.mp3]<br>assessing: [sound:pronunciation_en_assessing.mp3]<br>urgency: [sound:pronunciation_en_urgency.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Prioritizo avaliando urgência, impacto e prazos.",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1753201029,
+    "cards": [
+      1753201029491
+    ]
+  },
+  {
+    "noteId": 1753201657699,
+    "profile": "User 1",
+    "tags": [
+      "break",
+      "Conversação",
+      "Entrevista",
+      "prioritize",
+      "smaller"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "Then I break tasks into smaller steps, set clear priorities,<br>Then:&nbsp;[sound:pronunciation_en_then.mp3]<br>break: [sound:pronunciation_en_break.mp3]<br>smaller:&nbsp;[sound:pronunciation_en_smaller.mp3]<br>prorities:&nbsp;[sound:pronunciation_en_priorities.mp3]<br>[sound:rec1753201634.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Depois divido as tarefas em etapas menores, defino prioridades claras",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1753201657,
+    "cards": [
+      1753201657699
+    ]
+  },
+  {
+    "noteId": 1753576744469,
+    "profile": "User 1",
+    "tags": [
+      "adjust",
+      "comes",
+      "Entrevista",
+      "progress"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "I adjust if new information comes in to keep progress consistent.<br>adjust: [sound:pronunciation_en_adjust.mp3]<br>comes:&nbsp;[sound:pronunciation_en_comes.mp3]<br>progress:&nbsp;[sound:pronunciation_en_progress.mp3]<br>consistent:&nbsp;[sound:pronunciation_en_consistent.mp3]<br>[sound:rec1753575645.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Eu ajusto se surgirem novas informações para manter o progresso consistente.",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1753576744,
+    "cards": [
+      1753576744469
+    ]
+  },
+  {
+    "noteId": 1753576958847,
+    "profile": "User 1",
+    "tags": [
+      "Entrevista",
+      "prioritize",
+      "tasks"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "How do you prioritize tasks?<br>prioritize: [sound:pronunciation_en_prioritize.mp3]<br>tasks: [sound:pronunciation_en_tasks.mp3]<br>[sound:rec1753576808.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Como você prioriza tarefas?",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1753576958,
+    "cards": [
+      1753576958847
+    ]
+  },
+  {
+    "noteId": 1753831138698,
+    "profile": "User 1",
+    "tags": [
+      "Conversação",
+      "embedded",
+      "work"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "I work on embedded systems that connect hardware and software for automation.<br>[sound:rec1753831251.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Trabalho com sistemas embarcados que conectam hardware e software para automação.",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1753831252,
+    "cards": [
+      1753831138698
+    ]
+  },
+  {
+    "noteId": 1753831523951,
+    "profile": "User 1",
+    "tags": [
+      "algorithm",
+      "Conversação",
+      "embedded"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "The algorithm is embedded in the device to run in real time.<br>[sound:rec1753831503.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "O algoritmo está embarcado no dispositivo para rodar em tempo real.",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1753831523,
+    "cards": [
+      1753831523951
+    ]
+  },
+  {
+    "noteId": 1754086528535,
+    "profile": "User 1",
+    "tags": [
+      "Conversação",
+      "Entrevista"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "How did you hear about this position?<br>[sound:rec1754086062.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Como fiquei sabendo dessa posição",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1754086528,
+    "cards": [
+      1754086528536
+    ]
+  },
+  {
+    "noteId": 1757009037123,
+    "profile": "User 1",
+    "tags": [
+      "Conversação",
+      "general_english"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "Can I park here?<br>[sound:rec1757008995.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Posso estacionar aqui?",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1757009037,
+    "cards": [
+      1757009037123
+    ]
+  },
+  {
+    "noteId": 1757009429155,
+    "profile": "User 1",
+    "tags": [
+      "Conversação",
+      "general_english"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "Only for half an hour.<br>[sound:rec1757009320.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Só por meia hora.",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1757009429,
+    "cards": [
+      1757009429155
+    ]
+  },
+  {
+    "noteId": 1757130944839,
+    "profile": "User 1",
+    "tags": [
+      "bedroom",
+      "children"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "What colour will you paint the children's bedroom?<br>children's: [sound:pronunciation_en_children's.mp3]<br>bedroom: [sound:pronunciation_en_bedroom.mp3]<br>[sound:rec1757130422.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "De que cor vocês vão pintar o quarto das crianças?",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1757130944,
+    "cards": [
+      1757130944839
+    ]
+  },
+  {
+    "noteId": 1757131133201,
+    "profile": "User 1",
+    "tags": [
+      "can't",
+      "decide"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "We can't decide<br>decide: [sound:pronunciation_en_decide.mp3]<br>can't: [sound:pronunciation_en_can't.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Não decidimos ainda.",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1757131133,
+    "cards": [
+      1757131133201
+    ]
+  },
+  {
+    "noteId": 1757133376007,
+    "profile": "User 1",
+    "tags": [
+      "Conversação",
+      "don't",
+      "understand"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "Sorry, I don't understand.<br>don't: [sound:pronunciation_en_don't.mp3]<br>understand: [sound:pronunciation_en_understand.mp3]:&nbsp;",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Desculpe, eu não entendo.",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1757134910,
+    "cards": [
+      1757133376007
+    ]
+  },
+  {
+    "noteId": 1757133376008,
+    "profile": "User 1",
+    "tags": [
+      "very_good"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "My English is not very good.<br>[sound:rec1757134969.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Meu inglês não é muito bom.",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1757134994,
+    "cards": [
+      1757133376008
+    ]
+  },
+  {
+    "noteId": 1757133376010,
+    "profile": "User 1",
+    "tags": [
+      "know"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "Yes, I know.",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Sim, eu sei.",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1757135014,
+    "cards": [
+      1757133376010
+    ]
+  },
+  {
+    "noteId": 1757133376031,
+    "profile": "User 1",
+    "tags": [
+      "lives",
+      "near"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "She lives near here.<br>lives:&nbsp;[sound:pronunciation_en_lives_(verb).mp3]<br>near:&nbsp;[sound:pronunciation_en_near.mp3]<br>[sound:rec1757220906.mp3]<br>[sound:ttsMP3.com_VoiceText_2025-9-7_1-55-35.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Ela mora aqui perto.",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1757220960,
+    "cards": [
+      1757133376031
+    ]
+  },
+  {
+    "noteId": 1757133376032,
+    "profile": "User 1",
+    "tags": [
+      "her"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "I see her every day.<br>her: [sound:pronunciation_en_her.mp3]<br>eu: [sound:rec1757221062.mp3]<br>IA: [sound:I see her every day..mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Eu a vejo todos os dias.",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1757221094,
+    "cards": [
+      1757133376032
+    ]
+  },
+  {
+    "noteId": 1757133376033,
+    "profile": "User 1",
+    "tags": [
+      "who"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "Who are you?<br>[sound:who are you.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Quem é você?",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1757221206,
+    "cards": [
+      1757133376033
+    ]
+  },
+  {
+    "noteId": 1757133376034,
+    "profile": "User 1",
+    "tags": [],
+    "fields": {
+      "Frente": {
+        "value": "What are you doing here?",
+        "order": 0
+      },
+      "Verso": {
+        "value": "O que você está fazendo aqui?",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1757133376,
+    "cards": [
+      1757133376034
+    ]
+  },
+  {
+    "noteId": 1757133376035,
+    "profile": "User 1",
+    "tags": [],
+    "fields": {
+      "Frente": {
+        "value": "I&#x27;m studying English here.",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Estou estudando inglês aqui.",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1757133376,
+    "cards": [
+      1757133376035
+    ]
+  },
+  {
+    "noteId": 1757133376036,
+    "profile": "User 1",
+    "tags": [
+      "guide",
+      "tourist"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "[sound:rec1757461440.mp3]I want to become a tourist guide.<br>tourist: [sound:pronunciation_en_tourists.mp3]<br>guide: [sound:pronunciation_en_guide.mp3]<br>",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Eu quero me tornar um(a) guia de turismo.",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1757470615,
+    "cards": [
+      1757133376036
+    ]
+  },
+  {
+    "noteId": 1757133376037,
+    "profile": "User 1",
+    "tags": [
+      "study",
+      "studying",
+      "where"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "Where are you studying?",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Onde você está estudando?",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1757471431,
+    "cards": [
+      1757133376037
+    ]
+  },
+  {
+    "noteId": 1757133376038,
+    "profile": "User 1",
+    "tags": [
+      "know"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "Do I know it?<br>[sound:rec1757561171.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Eu conheço?",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1757561177,
+    "cards": [
+      1757133376038
+    ]
+  },
+  {
+    "noteId": 1757135310500,
+    "profile": "User 1",
+    "tags": [
+      "can't",
+      "understand"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "I can't understand this email.<br>can't: [sound:pronunciation_en_can't.mp3]<br>understand: [sound:pronunciation_en_understand.mp3]<br>[sound:rec1757135267.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Eu não consigo entender este e-mail.",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1757135310,
+    "cards": [
+      1757135310500
+    ]
+  },
+  {
+    "noteId": 1757136934015,
+    "profile": "User 1",
+    "tags": [
+      "general_english",
+      "Would"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "Would you like some help?<br>Would: [sound:pronunciation_en_would.mp3]<br>[sound:rec1757136797.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Você gostaria de alguma ajuda?",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1757137110,
+    "cards": [
+      1757136934015
+    ]
+  },
+  {
+    "noteId": 1757218120197,
+    "profile": "User 1",
+    "tags": [
+      "general_english",
+      "I'd",
+      "tickets",
+      "tomorrow"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "I'd like two tickets for tomorrow night<br>I'd:&nbsp;[sound:pronunciation_en_i'd.mp3]<br>two: [sound:pronunciation_en_two.mp3]<br>tickets: [sound:rec1757215904.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Gostaria de dois ingressos para amanhã à noite.",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1757218134,
+    "cards": [
+      1757218120197
+    ]
+  },
+  {
+    "noteId": 1757218362208,
+    "profile": "User 1",
+    "tags": [
+      "for",
+      "general_english",
+      "I'll",
+      "just"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "I'll just check for you.<br>I'll:&nbsp;[sound:pronunciation_en_i'll.mp3]<br>just: [sound:pronunciation_en_just.mp3]<br>[sound:rec1757218355.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Eu vou verificar para você.",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1757218362,
+    "cards": [
+      1757218362208
+    ]
+  },
+  {
+    "noteId": 1757218537717,
+    "profile": "User 1",
+    "tags": [
+      "general_english",
+      "gramatica"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "<span style=\"font-weight: 600;\">His eyes were ...... bad that he couldn't read the number plate of the car in front.</span><span style=\"font-weight: 600;\">&nbsp;</span><span style=\"font-weight: 600;\">*<br></span>[sound:His eyes were so bad that he couldn't read the number plate of the car in front..mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "<strong>so</strong>&nbsp;<br>\nCorreto → estrutura padrão: <em>so + adjective + that...</em>. → <em>His eyes were so bad that...</em>",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1757218811,
+    "cards": [
+      1757218537717
+    ]
+  },
+  {
+    "noteId": 1757218820757,
+    "profile": "User 1",
+    "tags": [
+      "general_english",
+      "gramatica",
+      "once"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "<span style=\"font-weight: 600;\">The company needs to decide <span style=\"color: rgb(0, 0, 255);\">......</span> and for all what its position is on this point.</span><span style=\"font-weight: 600;\">&nbsp;</span><span style=\"font-weight: 600;\">*<br></span>[sound:The company needs to decide once and for all what its position is on this point..mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "<strong>once</strong>&nbsp;<br>\nCorreto → expressão fixa: <em>once and for all</em> → significa <em>“de uma vez por todas”</em>.",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1757218820,
+    "cards": [
+      1757218820757
+    ]
+  },
+  {
+    "noteId": 1757651578226,
+    "profile": "User 1",
+    "tags": [
+      "communication",
+      "ensure",
+      "essential",
+      "progress"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "Good communication is essential to ensure progress in any project.<br>",
+        "order": 0
+      },
+      "Verso": {
+        "value": "[sound:Good communication is essential to ensure progress in any project..mp3]<br>essential: [sound:pronunciation_en_essentials.mp3]<br>ensure: [sound:pronunciation_en_ensure.mp3]<br>my pronuncia: [sound:rec1757651531.mp3]<br>Uma boa comunicação é essencial para garantir progresso em qualquer projeto.",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1757651578,
+    "cards": [
+      1757651578227
+    ]
+  },
+  {
+    "noteId": 1757652130608,
+    "profile": "User 1",
+    "tags": [
+      "communication",
+      "effectively",
+      "progress",
+      "track"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "Clear communication helps the team track progress effectively.<br>track:&nbsp;[sound:pronunciation_en_track.mp3]<br>progress: [sound:pronunciation_en_progress (1).mp3]<br>effectively:&nbsp;[sound:pronunciation_en_effectively.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Uma comunicação clara ajuda a equipe a acompanhar o progresso de forma eficaz.<br>[sound:rec1757652088.mp3]<br>[sound:ttsMP3.com_VoiceText_2025-9-12_1-41-49.mp3]",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1757652130,
+    "cards": [
+      1757652130608
+    ]
+  },
+  {
+    "noteId": 1757653033770,
+    "profile": "User 1",
+    "tags": [
+      "communication",
+      "strength"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "What is your strength in communication?",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Qual é a sua força em comunicação?<br>strength: [sound:pronunciation_en_strength.mp3]<br>minha pronuncia:&nbsp; [sound:p_285745_152.mp3]<br>pronuncia: [sound:rec1757737059.mp3]",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1757737267,
+    "cards": [
+      1757653033770
+    ]
+  },
+  {
+    "noteId": 1757800066758,
+    "profile": "User 1",
+    "tags": [
+      "once",
+      "there_was"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "There was once a farmer and his wife.<br>[sound:001 There was once.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Havia uma vez um fazendeiro e sua esposa.",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1757800066,
+    "cards": [
+      1757800066758
+    ]
+  },
+  {
+    "noteId": 1757800248379,
+    "profile": "User 1",
+    "tags": [
+      "had_been",
+      "modulo_01"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "<b>She had been married</b> before.<br>[sound:002 she had been.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "[sound:ElevenLabs_Text_to_Speech_audio.mp3]<br>Ela tinha sido casada antes.",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1757800248,
+    "cards": [
+      1757800248380
+    ]
+  },
+  {
+    "noteId": 1757800389399,
+    "profile": "User 1",
+    "tags": [
+      "had",
+      "her",
+      "modulo_01"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "<b>Her first husband</b> had died.<br>[sound:003 her first husband.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "[sound:her first husband had died.mp3]<b><br>&nbsp;O primeiro marido dela</b> tinha morrido.",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1757800389,
+    "cards": [
+      1757800389399
+    ]
+  },
+  {
+    "noteId": 1757800505844,
+    "profile": "User 1",
+    "tags": [
+      "modulo_01"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "and now <b>she was married again</b>.<br>[sound:004 and now she.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "[sound:and now she was married again.mp3]<br>e agora <b>ela era casa novamente.</b>",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1757800505,
+    "cards": [
+      1757800505844
+    ]
+  },
+  {
+    "noteId": 1757800650648,
+    "profile": "User 1",
+    "tags": [
+      "lived",
+      "modulo_01",
+      "they"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "<b>They lived on a remote farm</b> in the west of England.<br>[sound:005 they lived on.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "[sound:they lived on a remote farm in the west of englad.mp3]<b><br>Eles moravam em uma remota fazenda</b> no oeste da Inglaterra.",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1757800650,
+    "cards": [
+      1757800650648
+    ]
+  },
+  {
+    "noteId": 1757800860550,
+    "profile": "User 1",
+    "tags": [
+      "modulo_01",
+      "they",
+      "what_a"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "and <b>what a pair of fools</b> they were.<br>[sound:006 and what a.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "[sound:and what a pair of fools they were.mp3]<br>e <b>que par de tolos</b> eles eram.",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1757800860,
+    "cards": [
+      1757800860550
+    ]
+  },
+  {
+    "noteId": 1757800953394,
+    "profile": "User 1",
+    "tags": [
+      "modulo_01",
+      "them_was",
+      "which"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "<b>Which of them was</b> the most foolish?<br>[sound:007 which of them.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "<b>Qual deles era </b>o mais tolo?",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1757800953,
+    "cards": [
+      1757800953394
+    ]
+  },
+  {
+    "noteId": 1757801061311,
+    "profile": "User 1",
+    "tags": [
+      "decide",
+      "modulo_01"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "<b>Listen to the story</b> and decide for yourself.<br>[sound:008 listen to the.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "<b>Escute a história</b> e decida você mesmo.<br>[sound:listen to the story and decide for yourself.mp3]",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1757801061,
+    "cards": [
+      1757801061311
+    ]
+  },
+  {
+    "noteId": 1757991628902,
+    "profile": "User 1",
+    "tags": [
+      "also",
+      "called",
+      "modulo_02",
+      "old",
+      "those"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "<span style=\"color: rgb(0, 255, 255);\"><b>In those days</b></span>, there also lived <span style=\"color: rgb(0, 255, 255);\"><b>an old soldier</b></span> called Jack Hannaford.<br>[sound:009 in those days.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "<span style=\"color: rgb(0, 255, 255);\"><b>Naqueles dias</b></span>, existia (vivia) também <span style=\"color: rgb(0, 255, 255);\"><b>um velho soldado</b></span> chamado Jack Hannaford.",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1757991642,
+    "cards": [
+      1757991628902
+    ]
+  },
+  {
+    "noteId": 1758063687714,
+    "profile": "User 1",
+    "tags": [
+      "coat",
+      "old"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "<span style=\"color: rgb(0, 255, 255);\">His coat was old </span>and he was poor.<br>[sound:010 his coat was.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "<span style=\"color: rgb(0, 255, 255);\">Seu cacaso era velho</span> e ele era pobre.",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1758063687,
+    "cards": [
+      1758063687714
+    ]
+  },
+  {
+    "noteId": 1758064012347,
+    "profile": "User 1",
+    "tags": [
+      "modulo_02",
+      "thought"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "<span style=\"color: rgb(0, 255, 255);\">but nobody thought</span> that Jack Hannaford was stupid.<br>[sound:011 but nobody thought.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "<span style=\"color: rgb(0, 255, 255);\">Mas ninquém pensava</span> que Jack Hannaford era estúpido.",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1758064012,
+    "cards": [
+      1758064012347
+    ]
+  },
+  {
+    "noteId": 1758064339022,
+    "profile": "User 1",
+    "tags": [
+      "modulo_02",
+      "sly"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "He was sly <span style=\"color: rgb(0, 255, 255);\">like a fox</span>.<br>[sound:012 he was sly.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Ele era astuto/malicioso <span style=\"color: rgb(0, 255, 255);\">como uma raposa</span>.",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1758064339,
+    "cards": [
+      1758064339022
+    ]
+  },
+  {
+    "noteId": 1758065635883,
+    "profile": "User 1",
+    "tags": [
+      "army",
+      "modulo_02"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "When <span style=\"color: rgb(0, 255, 255);\">he left the army</span>",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Quando <span style=\"color: rgb(0, 255, 255);\">ele deixou o exército</span>",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1758065635,
+    "cards": [
+      1758065635883
+    ]
+  },
+  {
+    "noteId": 1758065918471,
+    "profile": "User 1",
+    "tags": [
+      "around",
+      "country",
+      "modulo_02",
+      "walked"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "He walked <span style=\"color: rgb(0, 255, 255);\">all around the country.<br></span>[sound:014 he walked all.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Ele caminhou <span style=\"color: rgb(0, 255, 255);\">por todo o país.</span>",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1758065918,
+    "cards": [
+      1758065918471
+    ]
+  },
+  {
+    "noteId": 1758066265610,
+    "profile": "User 1",
+    "tags": [
+      "modulo_02",
+      "tricks"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "looking for ways to <span style=\"color: rgb(0, 255, 255);\">play his tricks<br></span>[sound:015 looking for ways.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "procurando por maneiras de <span style=\"color: rgb(0, 255, 255);\">\"jogar seus truques\" (fazer suas artimanhas)</span>",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1758066265,
+    "cards": [
+      1758066265610
+    ]
+  },
+  {
+    "noteId": 1758116522890,
+    "profile": "User 1",
+    "tags": [
+      "had",
+      "modulo_02",
+      "some",
+      "traveled"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "<span style=\"color: rgb(0, 255, 255);\">After he had traveled</span> for some time.<br>[sound:016 after he had.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "<span style=\"color: rgb(0, 255, 255);\">Depois que ele tinha viajado</span> por algum tempo.",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1758116522,
+    "cards": [
+      1758116522890
+    ]
+  },
+  {
+    "noteId": 1758116951281,
+    "profile": "User 1",
+    "tags": [
+      "belonging",
+      "come_across",
+      "modulo_02"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "He came across<span style=\"color: rgb(0, 255, 255);\"> the farm belonging to the pair</span>.<br>[sound:pronunciation_en_belonging.mp3]<br>[sound:017 he came across.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Ele deu de cara com <span style=\"color: rgb(0, 255, 255);\">a fazenda que pertencia ao par (ao casal)</span>.<br><br>come = kãm",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1758116951,
+    "cards": [
+      1758116951281
+    ]
+  },
+  {
+    "noteId": 1758117166888,
+    "profile": "User 1",
+    "tags": [
+      "knocked",
+      "modulo_02"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "<span style=\"color: rgb(0, 255, 255);\">He knocked</span> on the door of the house.<br>[sound:018 he knocked on.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "<span style=\"color: rgb(0, 255, 255);\">Ele bateu</span> na porta da casa",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1758117166,
+    "cards": [
+      1758117166888
+    ]
+  },
+  {
+    "noteId": 1758117531028,
+    "profile": "User 1",
+    "tags": [
+      "answered",
+      "modulo_02",
+      "moment"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "and <span style=\"color: rgb(0, 255, 255);\">a moment later</span>, the wife answered.<br>[sound:019 and a moment.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "e <span style=\"color: rgb(0, 255, 255);\">\"um momento depois\"</span> a esposa respondeu.",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1758117531,
+    "cards": [
+      1758117531028
+    ]
+  },
+  {
+    "noteId": 1758118066553,
+    "profile": "User 1",
+    "tags": [
+      "astonished",
+      "looked",
+      "modulo_02",
+      "quite"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "<span style=\"color: rgb(0, 255, 255);\">She looked him up and down</span>, quite astonished.<br>[sound:020 she looked him.mp3]<br>quite astonished:&nbsp;[sound:quite astonished.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "<span style=\"color: rgb(0, 255, 255);\">Ela olhou ele de cima a baixo</span>, muito surpresa.",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1758118066,
+    "cards": [
+      1758118066553
+    ]
+  },
+  {
+    "noteId": 1758118678882,
+    "profile": "User 1",
+    "tags": [
+      "few",
+      "journey",
+      "modulo_02",
+      "strangers"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "beucase<span style=\"color: rgb(0, 255, 255);\"> few strangers were able to make</span> the difficulty journey to their home.<br>[sound:021 because few strangers.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "porque <span style=\"color: rgb(0, 255, 255);\">poucos desconhecidos eram capazes de fazer</span> a difícil jogarnada até a casa deles.",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1758118678,
+    "cards": [
+      1758118678882
+    ]
+  },
+  {
+    "noteId": 1758118965443,
+    "profile": "User 1",
+    "tags": [
+      "asked",
+      "come",
+      "from",
+      "modulo_02",
+      "where"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "<span style=\"color: rgb(0, 255, 255);\">\"Where did you come from?\"</span> she asked.<br>[sound:022 where did you.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "<span style=\"color: rgb(0, 255, 255);\">\"De onde você veio?\",</span> ela perguntou",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1758118965,
+    "cards": [
+      1758118965443
+    ]
+  },
+  {
+    "noteId": 1758119013616,
+    "profile": "User 1",
+    "tags": [
+      "where",
+      "where_did_you"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "<span style=\"color: rgb(0, 255, 255);\">Where did you</span> learn English?<br>[sound:where did you learn english.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "<span style=\"color: rgb(0, 255, 255);\">Onde você </span>aprendeu inglês?",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1758119021,
+    "cards": [
+      1758119013616
+    ]
+  }
+]
