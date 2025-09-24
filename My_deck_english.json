@@ -2702,5 +2702,118 @@
     "cards": [
       1758119013616
     ]
+  },
+  {
+    "noteId": 1758713736367,
+    "profile": "User 1",
+    "tags": [
+      "Entrevista",
+      "improve",
+      "intermediate",
+      "listen",
+      "my_english",
+      "read",
+      "speak"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "My English level is intermediate. I can read well, listen and speak a little, and I improve every day.<br>[sound:My English level is intermediate. I can read well, listen and speak a little. So I improve every day..mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Meu nível de inglês é intermediário. Consigo ler bem, escutar e falar um pouco, e melhoro a cada dia.",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1758713736,
+    "cards": [
+      1758713736368
+    ]
+  },
+  {
+    "noteId": 1758714075713,
+    "profile": "User 1",
+    "tags": [
+      "Entrevista",
+      "improve",
+      "intermediate",
+      "memory",
+      "my_english",
+      "pronuncation"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "I practice English every day using apps like Anki and Forvo to improve my memory and pronunciation.<br>[sound:I practice English every day using apps like anki and forvo to improve my memory and pronunciation..mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Eu pratico inglês todos os dias usando aplicativos como Anki e Forvo para melhorar minha memória e pronúncia.",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1758714075,
+    "cards": [
+      1758714075713
+    ]
+  },
+  {
+    "noteId": 1758714727728,
+    "profile": "User 1",
+    "tags": [
+      "developing",
+      "Entrevista",
+      "intermediate",
+      "listening",
+      "my_english",
+      "read",
+      "speaking",
+      "understand"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "I can read and understand English texts very well, but I am still developing my speaking and listening skills.",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Eu consigo ler e entender textos em inglês muito bem, mas eu estou ainda desenvolvendo minhas habilidades de falar e escutar.",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1758714727,
+    "cards": [
+      1758714727729
+    ]
+  },
+  {
+    "noteId": 1758715901586,
+    "profile": "User 1",
+    "tags": [
+      "anki",
+      "chose",
+      "Entrevista",
+      "ideias",
+      "intermediate",
+      "my_english",
+      "relationship",
+      "thought"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "I chose Anki because it is more dynamic and connects ideas better through plugins like the Global Relationship Graph.<br>chose: [sound:pronunciation_en_chose.mp3]<br>ideias: [sound:pronunciation_en_ideas.mp3]<br>relationship:&nbsp;[sound:pronunciation_en_relationship.mp3]<br>[sound:ElevenLabs_Text_to_Speech_audio-e9025176c1d97c8054e901c2deb2653544c0e929.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Eu escolhi o Anki porque é mais dinâmico e conecta melhor as ideias através de plugins como o Global Relationship Graph.",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1758715901,
+    "cards": [
+      1758715901586
+    ]
   }
 ]
