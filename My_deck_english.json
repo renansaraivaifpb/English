@@ -2866,5 +2866,82 @@
     "cards": [
       1758853184549
     ]
+  },
+  {
+    "noteId": 1758916279973,
+    "profile": "User 1",
+    "tags": [
+      "algorithm",
+      "gestures",
+      "implement",
+      "recognize"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "<b>I implemented an algorithm to recognize gestures in real time.<br></b><br>recognize:&nbsp;[sound:pronunciation_en_recognize.mp3]<br>implemented:&nbsp;[sound:pronunciation_en_implemented-fe502dde7043c53928b98b24090fbfb753e15671.mp3]<br><br>[sound:I implemented an algorithm to recognize gestures in real time.mp3]<br>",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Eu implementei um algoritmo para reconhecer gestos em tempo real.",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1758916279,
+    "cards": [
+      1758916279973
+    ]
+  },
+  {
+    "noteId": 1758916467901,
+    "profile": "User 1",
+    "tags": [
+      "algorithm",
+      "embedded",
+      "implement"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "This algorithm is easy to implement on embedded systems.<br><br>[sound:This algorithm is easy to implemented on embedded systems..mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Este algoritmo é facil de implementar em sistemas embarcados.",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1758916467,
+    "cards": [
+      1758916467902
+    ]
+  },
+  {
+    "noteId": 1758920269528,
+    "profile": "User 1",
+    "tags": [
+      "Apresentação_Pessoal::Hobbies",
+      "Entrevista",
+      "gym",
+      "hometown",
+      "practice",
+      "visit",
+      "weekends"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "During the week, I like to work out at the <span style=\"color: rgb(0, 255, 255);\">gym</span>, and on <span style=\"color: rgb(0, 255, 255);\">weekends</span>, I practice taekwondo when I <span style=\"color: rgb(0, 255, 255);\">visit </span>my <span style=\"color: rgb(0, 255, 255);\">hometown</span>.<br><br>gym:&nbsp;[sound:gym.mp3]<br>practice: [sound:pronunciation_en_practice.mp3]<br>taekwondo: [sound:pronunciation_en_taekwondo.mp3]<br>visit:&nbsp;&nbsp;[sound:pronunciation_en_visit.mp3]<br>hometown: [sound:pronunciation_en_hometown.mp3]<br>weekends:&nbsp;[sound:pronunciation_en_weekends-0467d9553daa17f085bf5efd2647f9bdf626008c.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Durante a semana, eu gosto de ir para academia e no fim de semana eu gosto de praticar Taekwondo quando eu retorno para minha cidade natal.",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1758920269,
+    "cards": [
+      1758920269528
+    ]
   }
 ]
