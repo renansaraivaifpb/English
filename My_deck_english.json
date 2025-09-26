@@ -2815,5 +2815,56 @@
     "cards": [
       1758715901586
     ]
+  },
+  {
+    "noteId": 1758849988083,
+    "profile": "User 1",
+    "tags": [
+      "had",
+      "I'd",
+      "work"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "I'd work harder if I had more time to finish the project.<br>[sound:ElevenLabs_Text_to_Speech_audio-d3a18dfe517f0905a14a6906a1174a89d26179d9.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Eu trabalharia mais se tivesse mais tempo para terminar o projeto.",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1758849988,
+    "cards": [
+      1758849988084
+    ]
+  },
+  {
+    "noteId": 1758853184549,
+    "profile": "User 1",
+    "tags": [
+      "embedded",
+      "ensure",
+      "I'd",
+      "optimized",
+      "segmentation",
+      "transmitted"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "I'd ensure the model was optimized before being transmitted to the Raspberry Pi in the Embedded Segmentation System.<br><br>ensure: [sound:pronunciation_en_ensure.mp3]<br>transmitted: [sound:pronunciation_en_transmitted.mp3]<br>[sound:I'd ensure the model was optimized before being transmitted to the Raspberry Pi in the Embedded Segmentation System.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Eu garantia que o modelo fosse otimizado antes de ser transmitido para o Raspberry Pi no sistema de segmentação embarcado.",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1758853184,
+    "cards": [
+      1758853184549
+    ]
   }
 ]
