@@ -2943,5 +2943,57 @@
     "cards": [
       1758920269528
     ]
+  },
+  {
+    "noteId": 1759165783575,
+    "profile": "User 1",
+    "tags": [
+      "adjust",
+      "effectively",
+      "embedded",
+      "project",
+      "segmentation"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "The segmentation model needed to be adjusted to run efficiently on embedded hadware like the Raspberry Pi.<br>[sound:The segmentation model needed adjusted to run effciently on embedded hardware like the raspberry pi.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "O modelo de segmentação precisou ser ajustado para rodar de forma eficiente em hardware embarcado como o Raspberry Pi",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1759165783,
+    "cards": [
+      1759165783576
+    ]
+  },
+  {
+    "noteId": 1759166482900,
+    "profile": "User 1",
+    "tags": [
+      "adjust",
+      "beginning",
+      "consistent",
+      "project",
+      "segmentation"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "At the beginning of the project, I adjusted the annotation process to ensure consistent segmentation labels.<br>[sound:at the beginning the project, I ajusted the annotation process to ensure consistent segmentation labels..mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "No comçeo do projeto, eu garantia a consistência a rotulação da segmentação semântica no processo de anotação.",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1759166482,
+    "cards": [
+      1759166482901
+    ]
   }
 ]
