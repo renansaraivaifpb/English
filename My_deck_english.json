@@ -2377,7 +2377,7 @@
     ],
     "fields": {
       "Frente": {
-        "value": "<span style=\"color: rgb(0, 255, 255);\">His coat was old </span>and he was poor.<br>[sound:010 his coat was.mp3]",
+        "value": "<span style=\"color: rgb(0, 255, 255);\">His coat was old </span>and he was poor.<br>coat:&nbsp;[sound:pronunciation_en_coat.mp3]<br>[sound:010 his coat was.mp3]",
         "order": 0
       },
       "Verso": {
@@ -2386,7 +2386,7 @@
       }
     },
     "modelName": "Básico",
-    "mod": 1758063687,
+    "mod": 1759360049,
     "cards": [
       1758063687714
     ]
@@ -2994,6 +2994,56 @@
     "mod": 1759166482,
     "cards": [
       1759166482901
+    ]
+  },
+  {
+    "noteId": 1759323134044,
+    "profile": "User 1",
+    "tags": [
+      "prepare",
+      "preprocess",
+      "project",
+      "segmentation"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "The first step was to preprocess the data and prepare the images for segmentation<br>preprocess: [sound:pronunciation_en_preprocess.mp3]<br>prepare:&nbsp; [sound:pronunciation_en_prepare.mp3]<br>[sound:The first step was preprocess the data and prepare the images for segmantation.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "O primeiro passo foi pré-processar os dados e preparar as imagens para a segmentação.",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1759323134,
+    "cards": [
+      1759323134045
+    ]
+  },
+  {
+    "noteId": 1759360777954,
+    "profile": "User 1",
+    "tags": [
+      "architecture",
+      "project",
+      "segmentation",
+      "stage"
+    ],
+    "fields": {
+      "Frente": {
+        "value": "In the second <span style=\"color: rgb(0, 255, 255);\">stage</span>, I trained the segmentation model using the FCN-8s <span style=\"color: rgb(0, 255, 255);\">architecture</span>.<br><span style=\"color: rgb(0, 255, 255);\">stage</span>: [sound:pronunciation_en_stage.mp3]<br><span style=\"color: rgb(0, 255, 255);\">architecture</span>: [sound:pronunciation_en_architecture-2f992d1b9a89c6e5ac35c85582b61799615794b3.mp3]<br>[sound:In the second stage, I trained the segmentation model using FCN-8s architecture.mp3]",
+        "order": 0
+      },
+      "Verso": {
+        "value": "Na segunda etapa, eu treinei o modelo de segmentação usando a arquitetura FCN-8s.",
+        "order": 1
+      }
+    },
+    "modelName": "Básico",
+    "mod": 1759360777,
+    "cards": [
+      1759360777954
     ]
   }
 ]
